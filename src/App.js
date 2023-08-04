@@ -4,8 +4,8 @@ import { useState } from 'react';
 // import Home from './components/Home';
 import About from './components/About';
 // import Contact from './components/Contact';
-// import Portfolio from './components/Portfolio';
-// import Resume from './components/Resume';
+// import NewPortfolio from './components/NewPortfolio';
+// import NewResume from './components/NewResume';
 
 
 function App() {
@@ -16,6 +16,22 @@ function App() {
     <div >
      
      <About setScreen={setScreen} screen={screen}/>
+
+     {/* {
+        screen === "About" && <About setScreen={setScreen}/>
+      }
+
+      {
+        screen === "NewPortfolio" && <NewPortfolio setScreen={setScreen}/>
+      }
+
+       {
+        screen === "NewResume" && <NewResume setScreen={setScreen}/>
+      }  */}
+
+
+
+
       
       
     </div>
