@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gem/static/css/main.cf74c2af.css",
-    "main.js": "/gem/static/js/main.c9d3d82d.js",
+    "main.js": "/gem/static/js/main.224cd1bc.js",
     "static/js/787.3b740671.chunk.js": "/gem/static/js/787.3b740671.chunk.js",
     "static/media/dark-horse.mp4": "/gem/static/media/dark-horse.2abdd8e24a21f036365d.mp4",
     "static/media/techblog.png": "/gem/static/media/techblog.a6f7a1665804138931d3.png",
@@ -13,11 +13,11 @@
     "static/media/stack-exchange-logo-transparent.png": "/gem/static/media/stack-exchange-logo-transparent.78d616f55b6be13b1d7d.png",
     "index.html": "/gem/index.html",
     "main.cf74c2af.css.map": "/gem/static/css/main.cf74c2af.css.map",
-    "main.c9d3d82d.js.map": "/gem/static/js/main.c9d3d82d.js.map",
+    "main.224cd1bc.js.map": "/gem/static/js/main.224cd1bc.js.map",
     "787.3b740671.chunk.js.map": "/gem/static/js/787.3b740671.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf74c2af.css",
-    "static/js/main.c9d3d82d.js"
+    "static/js/main.224cd1bc.js"
   ]
 }
